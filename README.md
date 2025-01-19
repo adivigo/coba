@@ -96,10 +96,6 @@ This project worker can follow the steps below:
 2. Install NPM packages
    ```sh
    npm install
-   
-   #or
-   
-   yarn install
    ```
 3. create a postgresql database and create a table and enter the data according to the files in the migration/sql folder
 4. please configure the email account and database in .env
