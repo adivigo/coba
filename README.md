@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rinaldial11/PPay-BE">
-    <img src="https://media.discordapp.net/attachments/990198975200104459/1330456891569995776/ppay_logo2.png?ex=678e0c09&is=678cba89&hm=7921e863f445e259cd9fb7b915068fee1e82ab4771f65e2bde2a9f00412ec517&=&format=webp&quality=lossless" alt="Logo" width="855" height="406">
+    <img src="https://media.discordapp.net/attachments/990198975200104459/1330456891569995776/ppay_logo2.png?ex=678e0c09&is=678cba89&hm=7921e863f445e259cd9fb7b915068fee1e82ab4771f65e2bde2a9f00412ec517&=&format=webp&quality=lossless" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">Ppay E-wallet (RANER Team)</h3>
