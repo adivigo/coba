@@ -68,7 +68,7 @@ This project is based on the following packages:
 
 * [![Golang][golang-shield]][golang-url]
 * [![pg][pg-shield]][pg-url]
-* [![gin-gonic][gin-gonic-shield]][gin-gonic-url]
+* [![gin-gonic][gin_gonic-shield]][gin_gonic-url]
 * [![.env][.env-shield]][.env-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
