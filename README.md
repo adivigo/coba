@@ -114,7 +114,7 @@ This project worker can follow the steps below:
 1. Install [postman](https://www.postman.com/)
 2. Visit the following link to export tickitz postman workspace 
    ```sh
-   https://www.postman.com/avionics-meteorologist-14374576/workspace/tickitz/collection/22380820-2a8492cd-b607-4943-b31d-9d8c50cc4543?action=share&creator=22380820
+    https://speeding-astronaut-290968.postman.co/workspace/New-Team-Workspace~dc44c810-df4e-4ea3-8bc6-36f854a76dbf/collection/20936546-4a2277a9-6cd7-4e12-9d46-800514c66ca6?action=share&creator=20936546
    ```
 3. Import the workspace that you already have in stage 2 into the postman application
 4. Go to tickitz workspace -> auth -> login. The default email and pass please use user1@gmail.com and 123456. The token obtained can be used to access data
