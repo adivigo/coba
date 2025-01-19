@@ -98,7 +98,7 @@ This project worker can follow the steps below:
    npm install
    ```
 3. create a postgresql database and create a table and enter the data according to the files in the migration/sql folder
-4. please configure the email account and database in .env
+4. please configure in .env
 5. Run
    ```sh
    npm run dev 
