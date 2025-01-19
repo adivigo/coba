@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rinaldial11/PPay-BE">
-    <img src="https://media.discordapp.net/attachments/990198975200104459/1330456891569995776/ppay_logo2.png?ex=678e0c09&is=678cba89&hm=7921e863f445e259cd9fb7b915068fee1e82ab4771f65e2bde2a9f00412ec517&=&format=webp&quality=lossless" alt="Logo" width="550" height="200">
+    <img src="https://media.discordapp.net/attachments/990198975200104459/1330456891569995776/ppay_logo2.png?ex=678e0c09&is=678cba89&hm=7921e863f445e259cd9fb7b915068fee1e82ab4771f65e2bde2a9f00412ec517&=&format=webp&quality=lossless" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ppay E-wallet (RANER Team)</h3>
@@ -68,6 +68,8 @@ This project is based on the following packages:
 
 * [![Golang][golang-shield]][golang-url]
 * [![pg][pg-shield]][pg-url]
+* [![gin-gonic][gin-gonic-shield]][gin-gonic-url]
+* [![.env][.env-shield]][.env-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,6 +96,10 @@ This project worker can follow the steps below:
 2. Install NPM packages
    ```sh
    npm install
+   
+   #or
+   
+   yarn install
    ```
 3. create a postgresql database and create a table and enter the data according to the files in the migration/sql folder
 4. please configure the email account and database in .env
@@ -148,3 +154,5 @@ Project Link: [https://github.com/rinaldial11/PPay-BE)
 [pg-url]: https://www.postgresql.org/
 [gin_gonic-shield]: https://img.shields.io/badge/gin%20gonic-grey?style=for-the-badge&logo=gin
 [gin_gonic-url]: https://gin-gonic.com/
+[.env-shield]: https://img.shields.io/badge/dot%20env-grey?style=for-the-badge&logo=dotenv
+[.env-url]: https://www.npmjs.com/package/dotenv
