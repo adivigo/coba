@@ -84,7 +84,7 @@ This project worker can follow the steps below:
 
 * npm
   ```sh
-  npm install
+  npm install npm@latest -g
   ```
 
 ### Installation
