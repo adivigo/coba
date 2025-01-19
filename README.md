@@ -10,7 +10,7 @@
     <img src="https://media.discordapp.net/attachments/990198975200104459/1330456891569995776/ppay_logo2.png?ex=678e0c09&is=678cba89&hm=7921e863f445e259cd9fb7b915068fee1e82ab4771f65e2bde2a9f00412ec517&=&format=webp&quality=lossless" alt="Logo" width="550" height="200">
   </a>
 
-  <h3 align="center">Ppay E-wallet (RANER Team)</h3>
+  <h3 align="center">P-pay E-wallet (RANER Team)</h3>
 
   <p align="center">
     <br />
@@ -112,12 +112,12 @@ This project worker can follow the steps below:
 ## Usage
 
 1. Install [postman](https://www.postman.com/)
-2. Visit the following link to export tickitz postman workspace 
+2. Visit the following link to export P-pay postman workspace 
    ```sh
     https://speeding-astronaut-290968.postman.co/workspace/New-Team-Workspace~dc44c810-df4e-4ea3-8bc6-36f854a76dbf/collection/20936546-4a2277a9-6cd7-4e12-9d46-800514c66ca6?action=share&creator=20936546
    ```
 3. Import the workspace that you already have in stage 2 into the postman application
-4. Go to tickitz workspace -> auth -> login. The default email and pass please use user1@gmail.com and 123456. The token obtained can be used to access data
+4. Go to P-pay workspace -> auth -> Register -> Login.
 5. Please try to do get data with the token. To insert a token, you can do it on the authorization tab and select Bearer Token
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -125,14 +125,14 @@ This project worker can follow the steps below:
 <!-- USAGE EXAMPLES -->
 ## Related Projects
 
-[Frontend Ppay Wallet](https://github.com/endradwi/PPay-FE)
+[Frontend P-pay Wallet](https://github.com/endradwi/PPay-FE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Rinaldi Ainurrahman Lengkana - [@Rinaldi Ainurrahman engkana](https://www.linkedin.com/in/rinaldilengkana/) - rinaldilengkana44@gmail.com
+Rinaldi Ainurrahman Lengkana - [@Rinaldi Ainurrahman engkana](https://www.linkedin.com/in/rinaldilengkana/)
 
 Project Link: [https://github.com/rinaldial11/PPay-BE)
 
